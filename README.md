@@ -1,5 +1,10 @@
 # Cross IMDb Top 250 movies and Netflix
-Check which movies from the [IMDB top 250 movies](https://www.imdb.com/chart/top) are also available on Netflix. It is necessary 
+Check which movies from the [IMDB top 250 movies](https://www.imdb.com/chart/top) are also available on Netflix. In order to replicate in the netflix of your country, you will have to download an html file with the full movie list (available on https://www.netflix.com/browse/genre/34399?so=az):
+- Scroll down to the end to load the full list of movies
+- In my case I had to download two html files since the full list was loading until the middle, so the first HTML was loaded from A to M and the second HTML was loaded from Z to M (using https://www.netflix.com/browse/genre/34399?so=za)
+
+
+## Movies available in the Brazilian Netflix (updated on May, 19th 2019)
 
 | Title                                                  | Year | Rating | Rating Count | url                                  | 
 |--------------------------------------------------------|------|--------|--------------|--------------------------------------| 
